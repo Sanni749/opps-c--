@@ -1,6 +1,7 @@
 // add.of 2 1-D arry by overloading binary opateor+(MF)or(FF)or(MF)
 #include <iostream>
 using namespace std;
+// bipin
 class array
 {
     int ary[5];
